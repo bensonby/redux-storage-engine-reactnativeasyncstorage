@@ -1,5 +1,5 @@
 # build artefacts
-/build/
+# /build/ # for self publishing in git
 
 # npm
 /node_modules/
